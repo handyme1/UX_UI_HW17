@@ -14,8 +14,6 @@ body{
     align-items: center;
     justify-content: center;
     margin-top: 30px;
-    padding-top: 10px;
-    padding-bottom: 10px;
     background-color: Green;
     color: #ffffff;
   }
@@ -51,6 +49,8 @@ body{
     width: 25%;
     flex-basis: 25%;
     padding-left: 3%;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
   }
   .navtext{
     width: 50%;
