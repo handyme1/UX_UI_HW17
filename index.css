@@ -44,6 +44,12 @@ body{
     flex-basis: 25%;
     padding-left: 3%;
   }
+
+ .photo{
+    width: 25%;
+    flex-basis: 25%;
+    padding-left: 3%;
+  }
   .navtext{
     width: 50%;
     font-size: 20px;
