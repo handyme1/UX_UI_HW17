@@ -24,8 +24,10 @@ body{
     background-color: green;
   }
   .name{
+    display: flex;
     padding-left: 20px;
     font-size: 70px;
+    align-items: left;
     
   }
   .slogan{
